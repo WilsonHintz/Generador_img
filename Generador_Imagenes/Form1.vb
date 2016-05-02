@@ -26,7 +26,7 @@ Public Class Form1
         'flagGraphics.DrawCurve(pen, points, 0.2F)
 
         PictureBox1.Image = flag
-        flag.Save("lamao.jpg")
+        ' flag.Save("lamao.jpg")
 
     End Sub
 
