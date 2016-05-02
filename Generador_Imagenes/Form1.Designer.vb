@@ -35,12 +35,16 @@ Partial Class Form1
         Me.y_punto3 = New System.Windows.Forms.TextBox()
         Me.Label4 = New System.Windows.Forms.Label()
         Me.Label5 = New System.Windows.Forms.Label()
+        Me.Button1 = New System.Windows.Forms.Button()
+        Me.Button2 = New System.Windows.Forms.Button()
+        Me.scroll1 = New System.Windows.Forms.HScrollBar()
+        Me.VScrollBar1 = New System.Windows.Forms.VScrollBar()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'PictureBox1
         '
-        Me.PictureBox1.Location = New System.Drawing.Point(26, 23)
+        Me.PictureBox1.Location = New System.Drawing.Point(26, 62)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(345, 300)
         Me.PictureBox1.TabIndex = 0
@@ -142,11 +146,50 @@ Partial Class Form1
         Me.Label5.TabIndex = 12
         Me.Label5.Text = "Punto 3"
         '
+        'Button1
+        '
+        Me.Button1.Location = New System.Drawing.Point(453, 172)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(75, 23)
+        Me.Button1.TabIndex = 13
+        Me.Button1.Text = "default"
+        Me.Button1.UseVisualStyleBackColor = True
+        '
+        'Button2
+        '
+        Me.Button2.Location = New System.Drawing.Point(453, 12)
+        Me.Button2.Name = "Button2"
+        Me.Button2.Size = New System.Drawing.Size(75, 23)
+        Me.Button2.TabIndex = 14
+        Me.Button2.Text = "Fondo"
+        Me.Button2.UseVisualStyleBackColor = True
+        '
+        'scroll1
+        '
+        Me.scroll1.Location = New System.Drawing.Point(9, 380)
+        Me.scroll1.Maximum = 300
+        Me.scroll1.Minimum = 1
+        Me.scroll1.Name = "scroll1"
+        Me.scroll1.Size = New System.Drawing.Size(345, 17)
+        Me.scroll1.TabIndex = 15
+        Me.scroll1.Value = 1
+        '
+        'VScrollBar1
+        '
+        Me.VScrollBar1.Location = New System.Drawing.Point(6, 65)
+        Me.VScrollBar1.Name = "VScrollBar1"
+        Me.VScrollBar1.Size = New System.Drawing.Size(17, 297)
+        Me.VScrollBar1.TabIndex = 16
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(563, 352)
+        Me.ClientSize = New System.Drawing.Size(648, 406)
+        Me.Controls.Add(Me.VScrollBar1)
+        Me.Controls.Add(Me.scroll1)
+        Me.Controls.Add(Me.Button2)
+        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.Label5)
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.y_punto3)
@@ -181,4 +224,8 @@ Partial Class Form1
     Friend WithEvents y_punto3 As TextBox
     Friend WithEvents Label4 As Label
     Friend WithEvents Label5 As Label
+    Friend WithEvents Button1 As Button
+    Friend WithEvents Button2 As Button
+    Friend WithEvents scroll1 As HScrollBar
+    Friend WithEvents VScrollBar1 As VScrollBar
 End Class
