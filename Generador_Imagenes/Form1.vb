@@ -18,7 +18,7 @@ Public Class Form1
             New Point(x_punto1.Text, y_punto1.Text),    'punto 1
             New Point(x_punto2.Text, y_punto2.Text),    'punto 2
             New Point(x_punto3.Text, y_punto3.Text)}    'punto 3
-        scroll1.Value.
+
 
         'se dibuja la region
         path.AddLines(rectas)
@@ -59,5 +59,6 @@ Public Class Form1
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         flagGraphics.Clear(Color.Black)
         PictureBox1.Image = flag
+
     End Sub
 End Class
