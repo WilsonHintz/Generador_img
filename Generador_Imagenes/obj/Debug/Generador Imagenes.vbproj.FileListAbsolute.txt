@@ -1,0 +1,15 @@
+c:\users\wilson\documents\visual studio 2015\Projects\Generador Imagenes\Generador Imagenes\bin\Debug\Generador Imagenes.exe.config
+c:\users\wilson\documents\visual studio 2015\Projects\Generador Imagenes\Generador Imagenes\bin\Debug\Generador Imagenes.exe
+c:\users\wilson\documents\visual studio 2015\Projects\Generador Imagenes\Generador Imagenes\bin\Debug\Generador Imagenes.pdb
+c:\users\wilson\documents\visual studio 2015\Projects\Generador Imagenes\Generador Imagenes\bin\Debug\Generador Imagenes.xml
+c:\users\wilson\documents\visual studio 2015\Projects\Generador Imagenes\Generador Imagenes\obj\Debug\Generador Imagenes.vbprojResolveAssemblyReference.cache
+c:\users\wilson\documents\visual studio 2015\Projects\Generador Imagenes\Generador Imagenes\obj\Debug\Generador_Imagenes.Form1.resources
+c:\users\wilson\documents\visual studio 2015\Projects\Generador Imagenes\Generador Imagenes\obj\Debug\Generador_Imagenes.Resources.resources
+c:\users\wilson\documents\visual studio 2015\Projects\Generador Imagenes\Generador Imagenes\obj\Debug\Generador Imagenes.vbproj.GenerateResource.Cache
+c:\users\wilson\documents\visual studio 2015\Projects\Generador Imagenes\Generador Imagenes\obj\Debug\Generador Imagenes.exe
+c:\users\wilson\documents\visual studio 2015\Projects\Generador Imagenes\Generador Imagenes\obj\Debug\Generador Imagenes.xml
+c:\users\wilson\documents\visual studio 2015\Projects\Generador Imagenes\Generador Imagenes\obj\Debug\Generador Imagenes.pdb
+C:\Users\Wilson\Documents\Visual Studio 2015\Projects\Generador Imagenes\Generador_Imagenes\bin\Debug\Generador Imagenes.exe.config
+C:\Users\Wilson\Documents\Visual Studio 2015\Projects\Generador Imagenes\Generador_Imagenes\obj\Debug\Generador Imagenes.exe
+C:\Users\Wilson\Documents\Visual Studio 2015\Projects\Generador Imagenes\Generador_Imagenes\obj\Debug\Generador Imagenes.xml
+C:\Users\Wilson\Documents\Visual Studio 2015\Projects\Generador Imagenes\Generador_Imagenes\obj\Debug\Generador Imagenes.pdb
