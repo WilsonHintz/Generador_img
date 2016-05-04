@@ -24,3 +24,7 @@ C:\Users\GuillermoH\Documents\Visual Studio 2015\Projects\Generador_img\Generado
 C:\Users\GuillermoH\Documents\Visual Studio 2015\Projects\Generador_img\Generador_Imagenes\obj\Debug\Generador_Imagenes.Form1.resources
 C:\Users\GuillermoH\Documents\Visual Studio 2015\Projects\Generador_img\Generador_Imagenes\obj\Debug\Generador_Imagenes.Resources.resources
 C:\Users\GuillermoH\Documents\Visual Studio 2015\Projects\Generador_img\Generador_Imagenes\obj\Debug\Generador Imagenes.vbproj.GenerateResource.Cache
+C:\Users\Wilson\Documents\Visual Studio 2015\Projects\Generador_img\Generador_Imagenes\bin\Debug\Generador Imagenes.exe.config
+C:\Users\Wilson\Documents\Visual Studio 2015\Projects\Generador_img\Generador_Imagenes\obj\Debug\Generador Imagenes.exe
+C:\Users\Wilson\Documents\Visual Studio 2015\Projects\Generador_img\Generador_Imagenes\obj\Debug\Generador Imagenes.xml
+C:\Users\Wilson\Documents\Visual Studio 2015\Projects\Generador_img\Generador_Imagenes\obj\Debug\Generador Imagenes.pdb
