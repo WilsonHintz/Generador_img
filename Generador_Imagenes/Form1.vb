@@ -1,5 +1,5 @@
 ﻿Imports System.Drawing.Drawing2D
-
+'pornemos un comentario lamao 
 Public Class Form1
     Dim flag As New Bitmap(300, 300)
     Dim flagGraphics As Graphics = Graphics.FromImage(flag)
